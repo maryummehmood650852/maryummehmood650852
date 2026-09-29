@@ -16,7 +16,7 @@
 </div>
 
 ---
-⚡ About Me
+⚡ **About Me**
 
 I’m a Computer Science graduate (2025) building my career as a QA Automation Engineer, with hands-on experience in software testing, REST API testing, and UI/E2E automation.
 I’m passionate about finding defects, improving test coverage, and building reliable automation that helps teams deliver high-quality software with confidence.
@@ -79,49 +79,7 @@ I’m passionate about finding defects, improving test coverage, and building re
 
 </div>
 
-# 💼 Experience
 
-## 🔹 Quality Assurance Intern
-### Ahmad Institute
-**September 2026 – October 2026**
-
-- Performed functional, regression, UI, non-functional, black-box,
-  white-box and grey-box testing.
-- Performed REST API testing using **Postman**.
-- Tested **Salesforce REST APIs** using OAuth authentication.
-- Automated Salesforce login and Opportunity creation using
-  **Playwright + TypeScript**.
-- Automated Amazon E2E flows for product search, cart and checkout.
-- Worked with **Jira and Agile practices**.
-- Used Git, GitHub and Bitbucket for version control.
-- Executed Playwright tests through **GitHub Actions and Azure DevOps**.
-- Practiced basic Docker fundamentals.
-
----
-
-## 🔹 QA Bootcamp – Self-Study Training Program
-### Ahmad Institute
-**2-Week Program**
-
-- Studied Software Testing, SDLC/STLC and requirements analysis.
-- Practiced test case design and defect life cycle.
-- Practiced Jira activities including bugs, sprints, workflows and JQL.
-- Practiced REST API testing with Postman.
-- Learned Playwright automation fundamentals.
-- Practiced API scripting, request chaining and Newman.
-
----
-
-## 🔹 Web Development Intern
-### Hex Software
-**February 2026 – March 2026**
-
-- Worked with **HTML, CSS and JavaScript**.
-- Developed responsive web applications.
-- Built **Maryam Boutique**, an e-commerce website.
-- Implemented shopping cart, wishlist and Local Storage functionality.
-
----
 
 # 🚀 Featured Projects
 
