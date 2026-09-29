@@ -16,23 +16,18 @@
 </div>
 
 ---
+⚡ About Me
 
-# ⚡ About Me
+I’m a Computer Science graduate (2025) building my career as a QA Automation Engineer, with hands-on experience in software testing, REST API testing, and UI/E2E automation.
+I’m passionate about finding defects, improving test coverage, and building reliable automation that helps teams deliver high-quality software with confidence.
 
-I am a **Computer Science graduate (2025)** pursuing a career in
-**Quality Assurance and Test Automation**.
+🎓 BS Computer Science — 2025 │ 📍 Islamabad, Pakistan │ 💼 Open to QA Automation Opportunities
 
-I have hands-on experience in:
+🧪 Hands-on experience in Functional & Regression Testing, REST API Testing, Salesforce API/UI Testing, and E2E Automation using Postman, Playwright & TypeScript.
 
-- 🧪 Manual & Functional Testing
-- 🔗 REST API Testing
-- 🤖 UI & E2E Automation
-- 🎭 Playwright with TypeScript
-- 📮 Postman API Testing
-- ☁️ Salesforce API & UI Testing
-- 📋 Jira & Agile Practices
-- 🔄 Git, GitHub & Bitbucket
-- 🚀 GitHub Actions & Azure DevOps
+⚙️ Experienced with Jira & Agile practices, Git/GitHub/Bitbucket, GitHub Actions, Azure DevOps Pipelines, and basic Docker.
+
+🚀 Building expertise in Test Automation + API Testing + CI/CD, with a focus on creating maintainable tests and making software releases more reliable.
 
 ---
 
