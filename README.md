@@ -38,9 +38,10 @@ I have hands-on experience in:
 
 # 🛠️ Tech Stack
 
+<div align="center">
+
 ### 🧪 Testing & QA
 
-<p>
 <img src="https://img.shields.io/badge/Functional%20Testing-1f6feb?style=flat-square">
 <img src="https://img.shields.io/badge/Regression%20Testing-1f6feb?style=flat-square">
 <img src="https://img.shields.io/badge/UI%20Testing-1f6feb?style=flat-square">
@@ -48,41 +49,40 @@ I have hands-on experience in:
 <img src="https://img.shields.io/badge/Black%20Box-555?style=flat-square">
 <img src="https://img.shields.io/badge/White%20Box-555?style=flat-square">
 <img src="https://img.shields.io/badge/Grey%20Box-555?style=flat-square">
-</p>
+
+<br><br>
 
 ### 🔗 API Testing
 
-<p>
 <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square">
 <img src="https://img.shields.io/badge/OAuth-6A1B9A?style=flat-square">
 <img src="https://img.shields.io/badge/CRUD-4CAF50?style=flat-square">
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square">
 <img src="https://img.shields.io/badge/APIRequestContext-2E8B57?style=flat-square">
-</p>
+
+<br><br>
 
 ### 🤖 Automation
 
-<p>
 <img src="https://img.shields.io/badge/Playwright-2E8B57?style=flat-square">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square">
 <img src="https://img.shields.io/badge/E2E%20Testing-673AB7?style=flat-square">
 <img src="https://img.shields.io/badge/Assertions-673AB7?style=flat-square">
 <img src="https://img.shields.io/badge/Auto--Waiting-673AB7?style=flat-square">
-</p>
+
+<br><br>
 
 ### 📋 QA & Project Tools
 
-<p>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square">
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square">
 <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square">
-</p>
 
----
+</div>
 
 # 💼 Experience
 
