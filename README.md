@@ -1,162 +1,299 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=180&section=header&text=Building%20Frameworks%20To%20Ship%20Bug%20Free&fontSize=32&animation=fadeIn" width="100%" />
+<div align="center">
 
-# Maryum Mehmood 👋
-### QA Automation Engineer
+# 👋 Hi, I'm Maryum Mehmood
 
-<table align="right">
-  <tr>
-    <td>
-      <b>🎯 FOCUS:</b> QA Automation & API Testing<br>
-      <b>📍 LOCATION:</b> Islamabad, Pakistan<br>
-      <b>💼 OPEN TO:</b> QA Automation Roles<br>
-      <b>🚀 TECH:</b> Playwright, TS, Postman, Docker
-    </td>
-  </tr>
-</table>
+### 🔍 QA Automation Engineer
 
-### ⚡ Professional Summary
-Detail-oriented Computer Science graduate (2025) pursuing a career in Quality Assurance and Test Automation. Hands-on experience in manual testing, REST API testing, and UI/E2E automation using Playwright with TypeScript and Postman. Experienced with Salesforce API and UI testing, e-commerce E2E testing, Jira, Git, GitHub, Bitbucket, and Azure DevOps.
+**Quality Assurance • Test Automation • API Testing • Playwright**
+
+<br>
+
+<img src="https://img.shields.io/badge/Focus-QA%20Automation-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/API-Testing-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Automation-Playwright-45ba63?style=for-the-badge">
+<img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge">
+
+</div>
 
 ---
 
-### 🛠️ Technical Skills
+# ⚡ About Me
 
-#### 🔹 Automation & Testing
-<table>
-  <tr>
-    <td bgcolor="#2EAD33"><b>PLAYWRIGHT</b></td>
-    <td bgcolor="#007ACC"><b>TYPESCRIPT</b></td>
-    <td bgcolor="#F7DF1E"><b>JAVASCRIPT</b></td>
-    <td bgcolor="#0052CC"><b>E2E TESTING</b></td>
-    <td bgcolor="#FF6C37"><b>POSTMAN</b></td>
-  </tr>
-</table>
+I am a **Computer Science graduate (2025)** pursuing a career in
+**Quality Assurance and Test Automation**.
 
-* **Testing:** Functional, Regression, UI, Non-Functional, Black Box, White Box, Grey Box
-* **API Testing:** REST APIs, HTTP Methods, Status Codes, JSON, OAuth, CRUD, Response Validation
+I have hands-on experience in:
 
-#### 🔹 CI/CD, DevOps & Tools
-<table>
-  <tr>
-    <td bgcolor="#2496ED"><b>DOCKER</b></td>
-    <td bgcolor="#2088FF"><b>GITHUB ACTIONS</b></td>
-    <td bgcolor="#0078D7"><b>AZURE PIPELINES</b></td>
-    <td bgcolor="#181717"><b>GIT / GITHUB</b></td>
-    <td bgcolor="#0052CC"><b>BITBUCKET</b></td>
-  </tr>
-</table>
-
-* **API Tools:** Postman, Playwright APIRequestContext, Collections, Environments, Variables
-* **Version Control:** Git, GitHub, Bitbucket, Branching, Pull Requests, Merging
-* **CI/CD & DevOps:** GitHub Actions, Azure DevOps Pipelines, Basic Docker
-* **Test Management:** Jira, User Stories, Tasks, Sprints, Acceptance Criteria, Bug Tracking, Test Execution
+- 🧪 Manual & Functional Testing
+- 🔗 REST API Testing
+- 🤖 UI & E2E Automation
+- 🎭 Playwright with TypeScript
+- 📮 Postman API Testing
+- ☁️ Salesforce API & UI Testing
+- 📋 Jira & Agile Practices
+- 🔄 Git, GitHub & Bitbucket
+- 🚀 GitHub Actions & Azure DevOps
 
 ---
 
-### 💼 Experience
+# 🛠️ Tech Stack
 
-🔹 **Quality Assurance Intern** @ Ahmad Institute *(September 2026 – October 2026)*
-- Performed functional, regression, UI, non-functional, black-box, white-box, and grey-box testing as part of QA training and practical exercises.
-- Performed REST API testing using Postman, including OAuth authentication, collections, environments, variables, CRUD operations, and response validation.
-- Tested Salesforce REST APIs using OAuth authentication by generating access tokens and executing authenticated POST, GET, PATCH, and DELETE requests.
-- Developed Playwright with TypeScript UI and API automation scripts, including Salesforce login and Opportunity creation workflows and Amazon E2E flows for product search, cart, and checkout.
-- Worked with Jira and Agile practices including Epics, User Stories, Tasks, Sprints, Acceptance Criteria, bug tracking, and test reporting.
-- Used Git, GitHub, and Bitbucket for branching, commits, pull requests, merging, and version control.
-- Executed Playwright tests through GitHub Actions and Azure DevOps Pipelines and worked with Azure DevOps Kanban boards.
-- Practiced basic Docker fundamentals including Docker image creation, container execution, and basic containerization.
+### 🧪 Testing & QA
 
-🔹 **QA Bootcamp – Self-Study Training Program** @ Ahmad Institute *(2-Week Program)*
-- Built a practical foundation in Software Testing, SDLC/STLC, requirements analysis, test case design, defect life cycle, and testing approaches.
-- Practiced Jira for QA activities including Epics, User Stories, Tasks, Bugs, Sprints, workflows, JQL, saved filters, dashboards, and basic reporting.
-- Practiced REST API testing with Postman including HTTP methods, CRUD requests, collections, environments, variables, response validation, request chaining, scripting, and Newman.
-- Learned Playwright automation fundamentals including project setup, locators, auto-waiting, assertions, test execution, HTML reports, and basic E2E automation.
+<p>
+<img src="https://img.shields.io/badge/Functional%20Testing-1f6feb?style=flat-square">
+<img src="https://img.shields.io/badge/Regression%20Testing-1f6feb?style=flat-square">
+<img src="https://img.shields.io/badge/UI%20Testing-1f6feb?style=flat-square">
+<img src="https://img.shields.io/badge/Non--Functional%20Testing-1f6feb?style=flat-square">
+<img src="https://img.shields.io/badge/Black%20Box-555?style=flat-square">
+<img src="https://img.shields.io/badge/White%20Box-555?style=flat-square">
+<img src="https://img.shields.io/badge/Grey%20Box-555?style=flat-square">
+</p>
 
-🔹 **Web Development Intern** @ Hex Software *(February 2026 – March 2026)*
-- Completed a one-month Web Development internship with practical experience in HTML, CSS, and JavaScript.
-- Developed Maryam Boutique, a responsive e-commerce website with product browsing, shopping cart, wishlist, checkout summary, and Local Storage functionality.
+### 🔗 API Testing
 
----
+<p>
+<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square">
+<img src="https://img.shields.io/badge/OAuth-6A1B9A?style=flat-square">
+<img src="https://img.shields.io/badge/CRUD-4CAF50?style=flat-square">
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square">
+<img src="https://img.shields.io/badge/APIRequestContext-2E8B57?style=flat-square">
+</p>
 
-### 📂 Projects
+### 🤖 Automation
 
-#### 🚀 [Salesforce API Automation](https://github.com) *(Playwright, TypeScript)*
-- Automated Salesforce REST API workflows using Playwright APIRequestContext with OAuth-based authentication.
-- Generated and used OAuth access tokens to send authenticated API requests to Salesforce.
-- Automated GET, POST, PATCH, and DELETE operations for Salesforce Account records.
-- Created and executed TypeScript API test scripts to validate Salesforce API functionality and record operations.
-- Validated HTTP status codes, response data, record creation, updates, and deletion.
+<p>
+<img src="https://img.shields.io/badge/Playwright-2E8B57?style=flat-square">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square">
+<img src="https://img.shields.io/badge/E2E%20Testing-673AB7?style=flat-square">
+<img src="https://img.shields.io/badge/Assertions-673AB7?style=flat-square">
+<img src="https://img.shields.io/badge/Auto--Waiting-673AB7?style=flat-square">
+</p>
 
-#### 🔗 [Fake Store API Testing](https://github.com) *(Playwright, TypeScript)*
-- Performed REST API testing on the Fake Store API without authentication using Playwright and TypeScript.
-- Tested GET, POST, PUT, PATCH, and DELETE requests to practice complete CRUD operations.
-- Created API test scripts using Playwright APIRequestContext and validated HTTP status codes and response data.
-- Used assertions to verify API responses and confirm expected data.
+### 📋 QA & Project Tools
 
-#### 🛒 [Amazon E-Commerce End-to-End Testing](https://github.com/playwright-practice) *(Playwright, TypeScript, Azure DevOps)*
-- Developed an end-to-end automation project for Amazon using Playwright and TypeScript.
-- Automated the customer workflow including login, product search, opening the first product, and adding the product to the cart.
-- Verified cart contents and automated navigation to the checkout page.
-- Used Playwright locators, actions, assertions, and auto-waiting to validate the workflow.
-- Configured an Azure DevOps pipeline to automatically execute the Playwright test suite.
-
-#### 💼 [Salesforce Web UI Automation](https://github.com) *(Playwright, TypeScript)*
-- Developed a Salesforce UI automation project using Playwright and TypeScript.
-- Automated the Salesforce login workflow and verified successful navigation to the dashboard.
-- Automated Opportunity creation in Salesforce using Playwright.
-- Used Playwright locators, actions, assertions, and auto-waiting to interact with and validate the UI workflow.
-
-#### 📬 [Salesforce API Testing with Postman](https://github.com) *(Postman, REST API)*
-- Tested Salesforce REST APIs in Postman using OAuth-based authentication.
-- Generated OAuth access tokens and used them to authenticate Salesforce API requests.
-- Performed authenticated GET, POST, PATCH, and DELETE operations on Salesforce records.
-- Validated HTTP status codes and response data after API requests.
-- Verified record creation, retrieval, updates, and deletion through API responses.
-
-#### 🍔 [Foody Hub – Food Delivery Website](https://github.com) *(Prompt Engineering, AI-Assisted Web Development)*
-- Created a responsive food delivery website using structured prompts and AI-assisted web development.
-- Planned menu categories, food items, promotional sections, and the overall user flow.
-- Implemented menu browsing, food search, shopping cart, checkout, and order-related features.
-- Tested the main website features and user flows to verify that the completed website worked as expected.
-
-#### 👗 [Maryam Boutique – E-Commerce Website](https://github.com) *(HTML, CSS, JavaScript)*
-- Developed a responsive e-commerce website for browsing dresses and coats.
-- Implemented shopping cart and wishlist features with real-time product updates.
-- Built a checkout summary with real-time price, discount, and item calculations.
-- Used JavaScript for DOM manipulation, event handling, dynamic rendering, and Local Storage persistence.
-
----
-
-### ⚙️ Test Automation Execution Graph
-[Code Push] ➡️ [GitHub Actions / Azure Pipelines] ➡️ [Docker Environment Setup]
-                                                            │
-  ┌─────────────────────────────────────────────────────────┴────────────────────────────────────────────────────────┐
-  ▼                                                         ▼                                                        ▼
-[Playwright E2E UI Tests]                     [Postman API Structural Tests]                           [Jira Defect Mapping]
-  │                                                         │                                                        │
-  ├── ✅ Pass ➡️ Deploy Setup                               ├── ✅ Pass ➡️ Verify Record Lifecycle                   └── ❌ Fail ➡️ Bug Tracked (Jira)
-  └── ❌ Fail ➡️ Block Framework                             └── ❌ Fail ➡️ Payload/Token Audit
-
-  ### 🎓 Education & Certifications
-
-* **Bachelor of Science, Computer Science (2021–2025)** — Fazaia Bilquis College PAF Nur Khan, Rawalpindi (Affiliated with Air University)
-* 📜 **Certificate of Internship – Web Development** — Hex Software *(Feb – Mar 2026)*
-* 🏆 **Certificate of Appreciation** — Zindagi Prize *(May 2025)*
-* 📝 **Certificate of Participation** — 3rd International Multidisciplinary Conference *(Oct 2024)*
-* 🏢 **Internship Certificate** — Pakistan Aeronautical Complex (PAC), Kamra *(Sep 2024)*
-
----
-
-### 📊 GitHub Stats & Metrics
-🚀 *Live tracking of testing contributions and automated test commits:*
-
-<p align="left">
-<img src="https://vercel.app" alt="Maryam's GitHub Stats" height="180px" />
+<p>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square">
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square">
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square">
 </p>
 
 ---
 
-### 🤝 Connect with me
-🌐 **[LinkedIn](www.linkedin.com/in/maryum-mehmood-976146385)** | ✉️ **maryummehmood900@gmail.com**
- 
+# 💼 Experience
+
+## 🔹 Quality Assurance Intern
+### Ahmad Institute
+**September 2026 – October 2026**
+
+- Performed functional, regression, UI, non-functional, black-box,
+  white-box and grey-box testing.
+- Performed REST API testing using **Postman**.
+- Tested **Salesforce REST APIs** using OAuth authentication.
+- Automated Salesforce login and Opportunity creation using
+  **Playwright + TypeScript**.
+- Automated Amazon E2E flows for product search, cart and checkout.
+- Worked with **Jira and Agile practices**.
+- Used Git, GitHub and Bitbucket for version control.
+- Executed Playwright tests through **GitHub Actions and Azure DevOps**.
+- Practiced basic Docker fundamentals.
+
+---
+
+## 🔹 QA Bootcamp – Self-Study Training Program
+### Ahmad Institute
+**2-Week Program**
+
+- Studied Software Testing, SDLC/STLC and requirements analysis.
+- Practiced test case design and defect life cycle.
+- Practiced Jira activities including bugs, sprints, workflows and JQL.
+- Practiced REST API testing with Postman.
+- Learned Playwright automation fundamentals.
+- Practiced API scripting, request chaining and Newman.
+
+---
+
+## 🔹 Web Development Intern
+### Hex Software
+**February 2026 – March 2026**
+
+- Worked with **HTML, CSS and JavaScript**.
+- Developed responsive web applications.
+- Built **Maryam Boutique**, an e-commerce website.
+- Implemented shopping cart, wishlist and Local Storage functionality.
+
+---
+
+# 🚀 Featured Projects
+
+## ☁️ Salesforce API Automation
+
+**Playwright • TypeScript • OAuth**
+
+> Automated Salesforce REST API workflows using Playwright APIRequestContext.
+
+- Generated and used OAuth access tokens.
+- Automated GET, POST, PATCH and DELETE operations.
+- Created TypeScript API test scripts.
+- Validated HTTP status codes and response data.
+- Verified record creation, updates and deletion.
+
+---
+
+## 🛒 Amazon E-Commerce E2E Testing
+
+**Playwright • TypeScript • Azure DevOps**
+
+- Automated customer login workflow.
+- Automated product search and product selection.
+- Automated adding products to cart.
+- Verified cart contents.
+- Automated navigation to checkout.
+- Used locators, actions, assertions and auto-waiting.
+- Configured Azure DevOps pipeline for test execution.
+
+---
+
+## ⚡ Salesforce Web UI Automation
+
+**Playwright • TypeScript**
+
+- Automated Salesforce login.
+- Verified successful dashboard navigation.
+- Automated Opportunity creation.
+- Used Playwright locators and actions.
+- Used assertions and auto-waiting for UI validation.
+
+---
+
+## 🔗 Salesforce API Testing
+
+**Postman • REST API • OAuth**
+
+- Tested Salesforce REST APIs using OAuth authentication.
+- Generated OAuth access tokens.
+- Performed authenticated GET, POST, PATCH and DELETE requests.
+- Validated HTTP status codes and response data.
+- Verified CRUD operations through API responses.
+
+---
+
+## 🧪 Fake Store API Testing
+
+**Playwright • TypeScript**
+
+- Tested REST APIs without authentication.
+- Practiced GET, POST, PUT, PATCH and DELETE requests.
+- Created API test scripts using APIRequestContext.
+- Validated HTTP status codes and response data.
+- Used assertions to verify expected responses.
+
+---
+
+## 🍔 Foody Hub
+
+**AI-Assisted Web Development**
+
+- Created a responsive food delivery website.
+- Planned menu categories and food items.
+- Implemented food search and menu browsing.
+- Added shopping cart and checkout features.
+- Tested main website features and user flows.
+
+---
+
+## 👗 Maryam Boutique
+
+**HTML • CSS • JavaScript**
+
+- Developed a responsive e-commerce website.
+- Implemented shopping cart and wishlist.
+- Added real-time price and discount calculations.
+- Used JavaScript DOM manipulation.
+- Used Local Storage for data persistence.
+
+---
+
+# 🎓 Education
+
+### 🎓 Bachelor of Science — Computer Science
+
+**Fazaia Bilqis College PAF Nur Khan, Rawalpindi**
+
+**2021 – 2025**
+
+Affiliated with **Air University**
+
+---
+
+# 🏆 Certifications & Achievements
+
+| 🏆 Achievement | 📅 Date |
+|---|---|
+| 🥇 Certificate of Internship – Web Development, Hex Software | Feb – Mar 2026 |
+| 🏅 Certificate of Appreciation – Zindagi Prize | May 2025 |
+| 📜 3rd International Multidisciplinary Conference | October 2024 |
+| 📜 Internship Certificate – Pakistan Aeronautical Complex (PAC), Kamra | September 2024 |
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maryummehmood650852&show_icons=true&hide_border=true&theme=transparent" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryummehmood650852&layout=compact&hide_border=true&theme=transparent" width="41%">
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/maryum-mehmood-976146385">
+<img src="https://img.shields.io/badge/LinkedIn-Maryum%20Mehmood-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/maryummehmood650852">
+<img src="https://img.shields.io/badge/GitHub-maryummehmood650852-181717?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+📧 **maryummehmood900@gmail.com**
+
+📍 **Islamabad, Pakistan**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 QA Automation • API Testing • Playwright • TypeScript
+
+**Always Learning • Always Testing • Always Improving**
+
+</div>
+
+
+
+
+
+
+
+
+
     
 
