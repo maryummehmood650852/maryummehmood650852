@@ -159,7 +159,7 @@ I’m passionate about finding defects, improving test coverage, and building re
 
 ---
 
-## 👗 Maryam Boutique
+## 👗 [Maryam Boutique](https://github.com/maryummehmood650852/Maryum-Boutique.git)
 
 **HTML • CSS • JavaScript**
 
@@ -171,17 +171,7 @@ I’m passionate about finding defects, improving test coverage, and building re
 
 ---
 
-# 🎓 Education
 
-### 🎓 Bachelor of Science — Computer Science
-
-**Fazaia Bilqis College PAF Nur Khan, Rawalpindi**
-
-**2021 – 2025**
-
-Affiliated with **Air University**
-
----
 
 # 🏆 Certifications & Achievements
 
@@ -194,15 +184,6 @@ Affiliated with **Air University**
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maryummehmood650852&show_icons=true&hide_border=true&theme=transparent" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryummehmood650852&layout=compact&hide_border=true&theme=transparent" width="41%">
-
-</div>
 
 ---
 
