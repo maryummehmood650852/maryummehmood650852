@@ -1,4 +1,4 @@
-![Banner](https://vercel.app)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=180&section=header&text=Building%20Frameworks%20To%20Ship%20Bug%20Free&fontSize=32&animation=fadeIn" width="100%" />
 
 # Maryum Mehmood 👋
 ### QA Automation Engineer
