@@ -83,7 +83,7 @@ I’m passionate about finding defects, improving test coverage, and building re
 
 # 🚀 Featured Projects
 
-## ☁️ Salesforce API Automation
+## ☁️ Salesforce API Automation(https://github.com/maryummehmood650852/Salesforce-API-Automation.git)
 
 **Playwright • TypeScript • OAuth**
 
@@ -97,7 +97,7 @@ I’m passionate about finding defects, improving test coverage, and building re
 
 ---
 
-## 🛒 Amazon E-Commerce E2E Testing
+## 🛒 Amazon E-Commerce E2E Testing(https://github.com/maryummehmood650852/Amazon-E2E-Testing.git)
 
 **Playwright • TypeScript • Azure DevOps**
 
@@ -123,7 +123,7 @@ I’m passionate about finding defects, improving test coverage, and building re
 
 ---
 
-## 🔗 Salesforce API Testing
+## 🔗 Salesforce API Testing(https://github.com/maryummehmood650852/Salesforce-API-Postman.git)
 
 **Postman • REST API • OAuth**
 
@@ -135,7 +135,7 @@ I’m passionate about finding defects, improving test coverage, and building re
 
 ---
 
-## 🧪 Fake Store API Testing
+## 🧪 Fake Store API Testing(https://github.com/maryummehmood650852/fake-store-api-playwright.git)
 
 **Playwright • TypeScript**
 
