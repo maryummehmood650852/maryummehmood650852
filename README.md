@@ -21,7 +21,7 @@
 I’m a Computer Science graduate (2025) building my career as a QA Automation Engineer, with hands-on experience in software testing, REST API testing, and UI/E2E automation.
 I’m passionate about finding defects, improving test coverage, and building reliable automation that helps teams deliver high-quality software with confidence.
 
-🎓 BS Computer Science — 2025 │ 📍 Islamabad, Pakistan │ 💼 Open to QA Automation Opportunities
+🎓 BS Computer Science — 2025  │ 💼 Open to QA Automation Opportunities
 
 🧪 Hands-on experience in Functional & Regression Testing, REST API Testing, Salesforce API/UI Testing, and E2E Automation using Postman, Playwright & TypeScript.
 
