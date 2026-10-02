@@ -207,7 +207,7 @@ I’m passionate about finding defects, improving test coverage, and building re
 
 📧 **maryummehmood900@gmail.com**
 
-📍 **Islamabad, Pakistan**
+
 
 </div>
 
