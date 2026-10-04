@@ -135,6 +135,17 @@ I’m passionate about finding defects, improving test coverage, and building re
 
 ---
 
+## 🔗 [DummyJSON API Testing](APNI_GITHUB_REPOSITORY_KA_URL)
+
+**Hoppscotch • REST API • CRUD**
+
+- Implemented full CRUD operations (GET, POST, PUT, PATCH, DELETE) for product management.
+- Configured dynamic endpoint routing using custom product IDs and collection structures.
+- Validated server handling mechanisms including 200 OK, 201 Created, and 400 Bad Request statuses.
+- Conducted comparative testing between complete data replacements (PUT) and partial payload updates (PATCH).
+- Exported and version-controlled testing configurations into GitHub via standardized JSON collection schemas.
+---
+
 ## 🧪 [Fake Store API Testing](https://github.com/maryummehmood650852/fake-store-api-playwright.git)
 
 **Playwright • TypeScript**
@@ -146,7 +157,7 @@ I’m passionate about finding defects, improving test coverage, and building re
 - Used assertions to verify expected responses.
 
 ---
-
+ 
 ## 🍔 Foody Hub
 
 **AI-Assisted Web Development**
