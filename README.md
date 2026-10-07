@@ -83,7 +83,6 @@ I’m passionate about finding defects, improving test coverage, and building re
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square">
 <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square">
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square">
 
 <br><br>
