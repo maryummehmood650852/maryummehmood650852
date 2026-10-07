@@ -109,19 +109,7 @@ I’m passionate about finding defects, improving test coverage, and building re
 - Used locators, actions, assertions and auto-waiting.
 - Configured Azure DevOps pipeline for test execution.
 
----
 
-## ⚡ Salesforce Web UI Automation
-
-**Playwright • TypeScript**
-
-- Automated Salesforce login.
-- Verified successful dashboard navigation.
-- Automated Opportunity creation.
-- Used Playwright locators and actions.
-- Used assertions and auto-waiting for UI validation.
-
----
 
 ## 🔗 [Salesforce API Testing](https://github.com/maryummehmood650852/Salesforce-API-Postman.git)
 
@@ -161,6 +149,22 @@ I’m passionate about finding defects, improving test coverage, and building re
   
 ---
 
+## 🗄️ [E-Commerce Database Testing & Automation](https://github.com/maryummehmood650852/Ecommerce-database-testing-playwright.git)
+
+**SQL Server • SQL • Playwright • TypeScript**
+
+> Automated database validation and integrity testing for an E-Commerce application using SQL Server and Playwright.
+
+- Designed and populated Customers, Products, Orders, OrderItems and Payments tables.
+- Performed SQL-based data integrity and validation testing.
+- Validated database relationships between customers, orders and products.
+- Automated database validation scenarios using Playwright and TypeScript.
+- Verified customer records and product price validations.
+- Automated order-customer relationship validation.
+- Configured GitHub Actions for automated test execution.
+
+---
+
 ## 🍔 Foody Hub
 
 **AI-Assisted Web Development**
@@ -173,17 +177,6 @@ I’m passionate about finding defects, improving test coverage, and building re
 
 ---
 
-## 👗 [Maryam Boutique](https://github.com/maryummehmood650852/Maryum-Boutique.git)
-
-**HTML • CSS • JavaScript**
-
-- Developed a responsive e-commerce website.
-- Implemented shopping cart and wishlist.
-- Added real-time price and discount calculations.
-- Used JavaScript DOM manipulation.
-- Used Local Storage for data persistence.
-
----
 
 
 
