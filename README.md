@@ -8,28 +8,27 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Focus-QA%20Automation-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/API-Testing-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Automation-Playwright-45ba63?style=for-the-badge">
-<img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;Playwright+%7C+TypeScript;API+Testing+%7C+Database+Testing;Building+Reliable+Test+Automation" alt="Typing SVG" />
 
 </div>
 
----
-⚡ **About Me**
 
-I’m a Computer Science graduate (2025) building my career as a QA Automation Engineer, with hands-on experience in software testing, REST API testing, and UI/E2E automation.
+
+---
+## ⚡ About Me
+
+I’m a Computer Science graduate (2025) building my career as a **QA Automation Engineer**, with hands-on experience in software testing, REST API testing, database testing, and UI/E2E automation.
+
 I’m passionate about finding defects, improving test coverage, and building reliable automation that helps teams deliver high-quality software with confidence.
 
-🎓 BS Computer Science — 2025  │ 💼 Open to QA Automation Opportunities
+🎓 **BS Computer Science — 2025**  
+💼 **Open to QA Automation Opportunities**
 
-🧪 Hands-on experience in Functional & Regression Testing, REST API Testing, Salesforce API/UI Testing, and E2E Automation using Postman, Playwright & TypeScript.
+🧪 Hands-on experience in **Functional & Regression Testing, REST API Testing, Database Testing, Salesforce API/UI Testing, and E2E Automation** using **Postman, Playwright & TypeScript**.
 
-⚙️ Experienced with Jira & Agile practices, Git/GitHub/Bitbucket, GitHub Actions, Azure DevOps Pipelines, and basic Docker.
+⚙️ Experienced with **Jira, Agile, Git/GitHub, GitHub Actions, Azure DevOps Pipelines, SQL Server, and basic Docker**.
 
-🚀 Building expertise in Test Automation + API Testing + CI/CD, with a focus on creating maintainable tests and making software releases more reliable.
-
----
+🚀 Currently building expertise in **Test Automation + API Testing + Database Testing + CI/CD**, with a focus on creating maintainable tests and making software releases more reliable.
 
 # 🛠️ Tech Stack
 
