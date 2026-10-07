@@ -29,7 +29,6 @@ I’m passionate about finding defects, improving test coverage, and building re
 ⚙️ Experienced with **Jira, Agile, Git/GitHub, GitHub Actions, Azure DevOps Pipelines, SQL Server, and basic Docker**.
 
 🚀 Currently building expertise in **Test Automation + API Testing + Database Testing + CI/CD**, with a focus on creating maintainable tests and making software releases more reliable.
-
 # 🛠️ Tech Stack
 
 <div align="center">
@@ -39,6 +38,7 @@ I’m passionate about finding defects, improving test coverage, and building re
 <img src="https://img.shields.io/badge/Functional%20Testing-1f6feb?style=flat-square">
 <img src="https://img.shields.io/badge/Regression%20Testing-1f6feb?style=flat-square">
 <img src="https://img.shields.io/badge/UI%20Testing-1f6feb?style=flat-square">
+<img src="https://img.shields.io/badge/Database%20Testing-1f6feb?style=flat-square">
 <img src="https://img.shields.io/badge/Non--Functional%20Testing-1f6feb?style=flat-square">
 <img src="https://img.shields.io/badge/Black%20Box-555?style=flat-square">
 <img src="https://img.shields.io/badge/White%20Box-555?style=flat-square">
@@ -57,7 +57,7 @@ I’m passionate about finding defects, improving test coverage, and building re
 
 <br><br>
 
-### 🤖 Automation
+### 🤖 Test Automation
 
 <img src="https://img.shields.io/badge/Playwright-2E8B57?style=flat-square">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square">
@@ -67,17 +67,35 @@ I’m passionate about finding defects, improving test coverage, and building re
 
 <br><br>
 
-### 📋 QA & Project Tools
+### 🗄️ Database
 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square">
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square">
+<img src="https://img.shields.io/badge/Database%20Validation-CC2927?style=flat-square">
+<img src="https://img.shields.io/badge/Data%20Integrity-CC2927?style=flat-square">
+<img src="https://img.shields.io/badge/Relationships-CC2927?style=flat-square">
+
+<br><br>
+
+### ⚙️ CI/CD & Development Tools
+
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square">
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square">
 <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square">
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square">
 
-</div>
+<br><br>
 
+### 📋 Project & Collaboration
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square">
+<img src="https://img.shields.io/badge/Agile-2496ED?style=flat-square">
+<img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=flat-square">
+<img src="https://img.shields.io/badge/Test%20Automation-2E8B57?style=flat-square">
+
+</div>
 
 
 # 🚀 Featured Projects
