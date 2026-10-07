@@ -181,31 +181,38 @@ I’m passionate about finding defects, improving test coverage, and building re
 
 ---
 
-## 🍔 Foody Hub
-
-**AI-Assisted Web Development**
-
-- Created a responsive food delivery website.
-- Planned menu categories and food items.
-- Implemented food search and menu browsing.
-- Added shopping cart and checkout features.
-- Tested main website features and user flows.
-
----
 
 
 
 
 # 🏆 Certifications & Achievements
 
-| 🏆 Achievement | 📅 Date |
-|---|---|
-| 🥇 Certificate of Internship – Web Development, Hex Software | Feb – Mar 2026 |
-| 🏅 Certificate of Appreciation – Zindagi Prize | May 2025 |
-| 📜 3rd International Multidisciplinary Conference | October 2024 |
-| 📜 Internship Certificate – Pakistan Aeronautical Complex (PAC), Kamra | September 2024 |
+<div align="center">
 
----
+🎓 **Software Quality Assurance**  
+<img src="https://img.shields.io/badge/Ahmad%20Institute-Software%20Quality%20Assurance-2E8B57?style=for-the-badge&logo=checkmarx&logoColor=white" />
+
+<br><br>
+
+💻 **Web Development Internship**  
+<img src="https://img.shields.io/badge/Hex%20Software-Feb%20%E2%80%93%20Mar%202026-3178C6?style=for-the-badge&logo=code&logoColor=white" />
+
+<br><br>
+
+🏅 **Certificate of Appreciation – Zindagi Prize**  
+<img src="https://img.shields.io/badge/May%202025-Achievement-F59E0B?style=for-the-badge&logo=star&logoColor=white" />
+
+<br><br>
+
+📜 **3rd International Multidisciplinary Conference**  
+<img src="https://img.shields.io/badge/October%202024-Participation-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white" />
+
+<br><br>
+
+✈️ **Pakistan Aeronautical Complex (PAC), Kamra**  
+<img src="https://img.shields.io/badge/September%202024-Internship-0EA5E9?style=for-the-badge&logo=airplane&logoColor=white" />
+
+</div>
 
 
 ---
